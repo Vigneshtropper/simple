@@ -1,0 +1,7 @@
+//Hmmm...Hmmmmmm..... First code on git.... 
+Package Simple;
+public class helo{
+    public static void main(String[]arg){
+        System.out,println("Hi There!");
+    }
+}
